@@ -2,8 +2,8 @@
 
 # Mock-Enumerable
 > - Create a class MyList that has an instance variable @list.
-   - In MyList implement a method #each that yields successive members of @list and uses the MyEnumerable module.
-   - Create a module MyEnumerable that implements the following methods (they should have the same functionality as methods in [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html)):
+  - In MyList implement a method #each that yields successive members of @list and uses the MyEnumerable module.
+  - Create a module MyEnumerable that implements the following methods (they should have the same functionality as methods in [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html)):
       - #all?
       - #any?
       - #filter
